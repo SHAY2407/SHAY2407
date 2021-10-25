@@ -2,6 +2,6 @@
 
 
 - 🌱 I’m currently learning C and C++
-- 👯 I’m looking to collaborate on Python or Game Development Projects (Unreal Engine)
+- 👯 Will try to help in pen Source projects related to C++
 - 💬 Ask me about nothing 
 - 😄 Pronouns: He, Him, His
