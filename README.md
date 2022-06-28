@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1>
+<h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 
 <h1 align="center">Hi there 👋, I'm Yashwardhan Khanna</h1>
 
